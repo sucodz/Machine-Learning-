@@ -24,14 +24,14 @@ Whether you’re a junior data scientist, a fullstack developer starting in ML, 
 
 ## Project List (still will share more)
 
-### 3. Spam Email Classifier  
+### 1. Spam Email Classifier  
 **Description:** This project demonstrates a high-accuracy spam email classifier using the [SMS Spam Collection Dataset](https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset) from Kaggle. It uses natural language processing and machine learning techniques to classify text messages as spam or ham (not spam).
 
 ---
 
 ## How to Use
 
-1. Clone the repository  
+Clone the repository  
    ```bash
    git clone https://github.com/sucodz/Machine-Learning-.git
    cd Machine-Learning-
