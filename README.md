@@ -5,6 +5,7 @@ This is a curated collection of hands-on machine learning projects I’ve built,
 
 Each project includes:
 - Project description
+- Used Dataset
 - Step-by-step guide
 - Source code
 - Demo or output sample
