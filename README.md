@@ -41,10 +41,16 @@ Whether you’re a junior data scientist, a fullstack developer starting in ML, 
 
 ---
 ### 4. Diabetes Predictor
-Description: This project builds a high-accuracy diabetes prediction model using the Pima Indians Diabetes Dataset. It employs binary classification techniques to predict whether a patient has diabetes based on health metrics such as glucose levels, blood pressure, BMI, and insulin levels. The model is optimized using SMOTE for class imbalance handling, hyperparameter tuning with GridSearchCV, and cross-validation to ensure robust performance while avoiding underfitting and overfitting.
+- **Description:** This project builds a high-accuracy diabetes prediction model using the Pima Indians Diabetes Dataset. It employs binary classification techniques to predict whether a patient has diabetes based on health metrics such as glucose levels, blood pressure, BMI, and insulin levels. The model is optimized using SMOTE for class imbalance handling, hyperparameter tuning with GridSearchCV, and cross-validation to ensure robust performance while avoiding underfitting and overfitting.
 
-Guide: [`/diabetes_predictor_model/README.md`](./diabetes_predictor_model/README.md)  
+- **Guide:** [`/diabetes_predictor_model/README.md`](./diabetes_predictor_model/README.md)  
 
+---
+---
+### 5. Weather Forecasting Tool  
+- **Description:** This project builds a high-accuracy temperature forecasting model using the Daily Climate Time Series Data. It focuses on predicting daily mean temperature trends using ARIMA time series forecasting. The pipeline includes data cleaning, stationarity checks using the Augmented Dickey-Fuller test, differencing, model training, and evaluation with RMSE. The model is carefully tuned to prevent underfitting or overfitting, ensuring reliable future temperature trend predictions.
+
+- **Guide:** [`/weather_forecasting/README.md`](./weather_forecasting/README.md)
 
 
 ## How to Use
