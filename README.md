@@ -33,6 +33,14 @@ Whether you’re a junior data scientist, a fullstack developer starting in ML, 
 - **Description:** This project demonstrates a high-accuracy iris flower classifier using the Iris dataset from the UCI Machine Learning Repository. It applies supervised learning and classification techniques to predict the species of an iris flower (Setosa, Versicolor, or Virginica) based on petal and sepal measurements. The model is optimized using GridSearchCV to ensure high performance while avoiding underfitting or overfitting.
 - **Guide:** [`/iris_classifier/README.md`](./iris_classifier/README.md)  
 
+---
+### 3. Titanic Survival Predictor
+- **Description:** This project builds a high-accuracy logistic regression model to predict the survival of passengers from the Titanic disaster using the Kaggle Titanic dataset. It applies supervised learning techniques and focuses on preprocessing, feature engineering, and model evaluation to ensure the predictions are both reliable and generalizable. The model is validated using test set performance and 10-fold cross-validation to avoid underfitting or overfitting.
+
+- **Guide:** [`/Titanic-Survival-Predictor/README.md`](./Titanic-Survival-Predictor/README.md
+
+
+
 
 ## How to Use
 
