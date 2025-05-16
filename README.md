@@ -26,10 +26,13 @@ Whether you’re a junior data scientist, a fullstack developer starting in ML, 
 
 ### 1. Spam Email Classifier  
 **Description:** This project demonstrates a high-accuracy spam email classifier using the SMS Spam Collection Dataset from Kaggle. It uses natural language processing and machine learning techniques to classify text messages as spam or ham (not spam).
+**Guide:** [`/spam_email_classifier/README.md`](./spam_email_classifier/README.md)  
 
 ---
 ### 2. Iris Flower Classifier
 **Description:** This project demonstrates a high-accuracy iris flower classifier using the Iris dataset from the UCI Machine Learning Repository. It applies supervised learning and classification techniques to predict the species of an iris flower (Setosa, Versicolor, or Virginica) based on petal and sepal measurements. The model is optimized using GridSearchCV to ensure high performance while avoiding underfitting or overfitting.
+**Guide:** [`/iris_classifier/README.md`](./iris_classifier/README.md)  
+
 
 ## How to Use
 
