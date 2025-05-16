@@ -32,8 +32,19 @@ Predict the species of iris from given features.
 
 - Accuracy: 96.7%
 
-- No overfitting/underfitting, confirmed by:
+- No overfitting/underfitting, confirmed by:  Balanced classification report, Clean confusion matrix
 
- Balanced classification report
+---
 
- Clean confusion matrix
+###  Contact Me
+
+Feel free to reach out or follow me on social media:
+
+- 📸 Instagram: [@su_codz](https://www.instagram.com/su_codz/)
+- 🌐 porfolio: [Soulef Bentorki](https://soulefbentorki.netlify.app)
+- 💼 Shop: [education shop](https://ko-fi.com/soulefbentorki)
+- 💻 Github: [sucodz](https://github.com/sucodz)
+
+
+_Thank you for checking out this notebook!_
+---
