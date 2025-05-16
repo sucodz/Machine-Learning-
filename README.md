@@ -43,7 +43,7 @@ Whether you’re a junior data scientist, a fullstack developer starting in ML, 
 ### 4. Diabetes Predictor
 Description: This project builds a high-accuracy diabetes prediction model using the Pima Indians Diabetes Dataset. It employs binary classification techniques to predict whether a patient has diabetes based on health metrics such as glucose levels, blood pressure, BMI, and insulin levels. The model is optimized using SMOTE for class imbalance handling, hyperparameter tuning with GridSearchCV, and cross-validation to ensure robust performance while avoiding underfitting and overfitting.
 
-Guide: [`/diabetes_predictor/README.md`](./diabetes_predictor/README.md)  
+Guide: [`/diabetes_predictor_model/README.md`](./diabetes_predictor_model/README.md)  
 
 
 
